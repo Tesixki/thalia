@@ -1,0 +1,10 @@
+build/
+*.3dsx
+*.cia
+*.smdh
+*.elf
+romfs/font/
+
+# 素材の元データ（リポジトリには入れない）
+*.zip
+__pycache__/
